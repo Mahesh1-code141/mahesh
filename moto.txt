@@ -34,15 +34,5 @@
     </header>
 
     <section>
-        <p>This is a simple HTML example page.</p>
-        <button onclick="showMessage()">Click Me</button>
-    </section>
+        
 
-    <script>
-        function showMessage() {
-            alert("Hello! You clicked the button.");
-        }
-    </script>
-
-</body>
-</html>
