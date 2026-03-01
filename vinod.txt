@@ -1,27 +1,2 @@
-/* Change the whole page background */
-body {
-  background-color: #f4f4f4;
-  font-family: Arial, sans-serif;
-}
-
-/* Style all h1 headings */
-h1 {
-  color: blue;
-  text-align: center;
-}
-
-/* Style a class */
-.box {
-  width: 300px;
-  padding: 20px;
-  margin: 20px auto;
-  background-color: white;
-  border: 2px solid black;
-  border-radius: 10px;
-}
-
-/* Style an ID */
-#special-text {
-  color: red;
-  font-weight: bold;
-}
+hi how are you
+iam file how about you
