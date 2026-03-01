@@ -1,2 +1,5 @@
-hi how are you
-iam file how about you
+ Change the whole page background */
+body {
+  background-color: #f4f4f4;
+  font-family: Arial, sans-serif;
+}
